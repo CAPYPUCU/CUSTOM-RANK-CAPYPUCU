@@ -13,33 +13,32 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 • Please pay for access 
 
 # AVAILABLE RANKS
-## ✏️ Xếp hạng có sẵn
 
-| Thứ hạng           | Biểu tượng |
-|--------------------|-----------|
-| Thành viên         | 🧑 |
-| Phương tiện truyền thông | 📡 |
-| Giám đốc           | 🕴 |
-| Người trợ giúp     | 🤝 |
-| MVP                | ⭐ |
-| MVP+               | 🌟 |
-| MVP++              | 💫 |
-| Bản mod            | 🔧 |
-| Người mới          | 🌱 |
-| Người sở hữu       | 👑 |
-| Quản trị viên      | 🛡 |
-| Chuyên nghiệp      | 🎯 |
-| Co giật            | ⚡ |
-| OG                 | 🕰 |
-| Người xây dựng     | 🏗 |
-| VIP                | 💎 |
-| VIP+               | 🔹 |
-| Phát triển         | 🛠 |
-| Nhà thiết kế       | 🎨 |
-| Chúa               | ✝ |
-| Ưu tú              | 🏆 |
-| Elite+             | 🔱 |
-| YouTube            | ▶️ |
-| Phát tin           | 📢 |
-| Cộng sự            | 🤗 |
-| NPC                | 🤖 |
+| Thứ hạng   | Biểu tượng |
+|------------|-----------|
+| Member     |  |
+| Media      |  |
+| Manager    |  |
+| Helper     |  |
+| MVP        |  |
+| MVP+       |  |
+| MVP++      |  |
+| Mod        |  |
+| Noob       |  |
+| Owner      |  |
+| Admin      |  |
+| Pro        |  |
+| Twitch     |  |
+| OG         |  |
+| Builder    |  |
+| VIP        |  |
+| VIP+       |  |
+| Dev        |  |
+| Designer   |  |
+| God        |  |
+| Elite      |  |
+| Elite+     |  |
+| YouTube    |  |
+| Broadcast  |  |
+| Partner    |  |
+| NPC        |  |
