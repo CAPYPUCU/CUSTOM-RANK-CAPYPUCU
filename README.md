@@ -21,6 +21,8 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Manager    |  |
 | Helper     |  |
 | MVP        |  |
+| VIP        |  |
+| VIP+       |  |
 | UltraVip   |  |
 | MegaVip    |  |
 | Mod        |  |
@@ -31,8 +33,6 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Twitch     |  |
 | OG         |  |
 | Builder    |  |
-| VIP        |  |
-| VIP+       |  |
 | Dev        |  |
 | Designer   |  |
 | God        |  |
