@@ -34,12 +34,12 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | OG         |  |
 | Builder    |  |<img width="84" height="18" alt="builder-seav" src="https://github.com/user-attachments/assets/702cc3de-1272-4ba7-964b-4746bc02827d" />|
 | Dev        |  |<img width="84" height="18" alt="dev-seav" src="https://github.com/user-attachments/assets/4557837e-5a98-4de1-9691-a7194e6a4257" />|
-| Designer   |  |
-| God        |  |
+| Designer   |  |<img width="68" height="18" alt="designer-seav" src="https://github.com/user-attachments/assets/49cf15e6-475b-48e3-9058-933b7b17a329" />
+| God        |  |<img width="65" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/7ac5b1ee-8e9f-4b27-bc31-95e041a3e7d5" />
 | Elite      |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
 | Elite+     |  |
 | YouTube    |  |<img width="84" height="18" alt="youtube-seav" src="https://github.com/user-attachments/assets/ab938574-695c-4ecf-abcb-9803e6b56c7b" />|
-| Broadcast  |  |
+| Broadcast  |  |<img width="80" height="18" alt="broadcast-seav" src="https://github.com/user-attachments/assets/080114c9-4d57-44e3-b8b6-68d4ddbc6e5c" />
 | Partner    |  |
 | NPC        |  |
 
