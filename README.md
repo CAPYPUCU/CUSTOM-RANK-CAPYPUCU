@@ -15,19 +15,19 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 # AVAILABLE RANKS
 
 | RABK   | GLYPH |
-|------------|-----------|
+|--------|-------|
 | Member     |  |
 | Media      |  |
 | Manager    |  |
 | Helper     |  |
 | MVP        |  |
-| MVP+       |  |
-| MVP++      |  |
+| UltraVip   |  |
+| MegaVip    |  |
 | Mod        |  |
 | Noob       |  |
 | Owner      |  |
 | Admin      |  |
-| Pro        |  |
+| Hero       |  |
 | Twitch     |  |
 | OG         |  |
 | Builder    |  |
