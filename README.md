@@ -42,6 +42,6 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Broadcast  |  |<img width="80" height="18" alt="broadcast-seav" src="https://github.com/user-attachments/assets/080114c9-4d57-44e3-b8b6-68d4ddbc6e5c" />|
 | Partner    |  |<img width="64" height="18" alt="partner-seav" src="https://github.com/user-attachments/assets/55c64256-fcd4-4c0b-b34f-fca76c01d4c1" />|
 | NPC        |  |<img width="64" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/bac948ae-d2b3-4dca-8d44-1556e4c85708" />|
-|TEST RANK: |
+|TEST RANK   | |
 
 
