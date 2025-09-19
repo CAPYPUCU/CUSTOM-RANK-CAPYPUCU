@@ -12,4 +12,4 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 
 • Please pay for access 
 
-# Available Ranks
+# AVAILABLE RANKS
