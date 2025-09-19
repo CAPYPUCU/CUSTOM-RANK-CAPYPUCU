@@ -33,7 +33,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Twitch     |  |<img width="84" height="18" alt="twitch-seav" src="https://github.com/user-attachments/assets/2c7f4fca-d30f-42a6-b972-6a056c2214ea" />|
 | OG         |  |
 | Builder    |  |<img width="84" height="18" alt="builder-seav" src="https://github.com/user-attachments/assets/702cc3de-1272-4ba7-964b-4746bc02827d" />|
-| Dev        |  |
+| Dev        |  |<img width="84" height="18" alt="dev-seav" src="https://github.com/user-attachments/assets/4557837e-5a98-4de1-9691-a7194e6a4257" />|
 | Designer   |  |
 | God        |  |
 | Elite      |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
