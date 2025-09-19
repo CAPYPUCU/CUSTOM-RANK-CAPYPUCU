@@ -14,7 +14,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 
 # AVAILABLE RANKS
 
-| RABK   | GLYPH |
+| RANK   | GLYPH |
 |--------|-------|
 | Member     |  |
 | Media      |  |
