@@ -14,9 +14,9 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 
 # AVAILABLE RANKS
 
-| RANK   | GLYPH |
-|--------|-------|
-| Member     |  <img width="84" height="18" alt="member-seav" src="https://github.com/user-attachments/assets/d5989c26-96b8-4543-a3c5-d59f99bcfe40" />|
+| RANK   | GLYPH | ILLUSTRATION| 
+|--------|-------|-------------|
+| Member     |  |<img width="84" height="18" alt="member-seav" src="https://github.com/user-attachments/assets/d5989c26-96b8-4543-a3c5-d59f99bcfe40" />|
 | Media      |  |
 | Manager    |  |
 | Helper     |  |
