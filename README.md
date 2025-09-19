@@ -43,6 +43,6 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Partner    |  |
 | NPC        |  |
 
-TEST TAG: 
+TEST RANK: 
 
 
