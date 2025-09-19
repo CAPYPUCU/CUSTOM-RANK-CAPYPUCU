@@ -20,7 +20,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Media      |  |
 | Manager    |  |
 | Helper     |  |
-| MVP        |  |
+| LEGEND     |  |
 | VIP        |  |
 | VIP+       |  |
 | UltraVip   |  |
