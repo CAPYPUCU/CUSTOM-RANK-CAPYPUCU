@@ -34,7 +34,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | OG         |  |
 | Builder    |  |<img width="84" height="18" alt="builder-seav" src="https://github.com/user-attachments/assets/702cc3de-1272-4ba7-964b-4746bc02827d" />|
 | Dev        |  |
-| Designer   |  |
+| Designer   |  |
 | God        |  |
 | Elite      |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
 | Elite+     |  |
