@@ -1,2 +1,2 @@
 # CUSTOM-RANK-CAPYPUCU
-I've created some "tag ranks" specifically for java &amp; bedrock, which can run even on paper servers.
+A resource pack for Java and Bedrock that adds custom ranks, compatible with Geyser. All ranks are free and easy to install - no plugins required, just a resource pack.
