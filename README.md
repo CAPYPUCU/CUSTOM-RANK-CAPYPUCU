@@ -39,7 +39,7 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Elite      |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
 | Elite+     |  |<img width="65" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/7ac5b1ee-8e9f-4b27-bc31-95e041a3e7d5" />|
 | YouTube    |  |<img width="84" height="18" alt="youtube-seav" src="https://github.com/user-attachments/assets/ab938574-695c-4ecf-abcb-9803e6b56c7b" />|
-| Broadcast  |  |<img width="80" height="18" alt="broadcast-seav" src="https://github.com/user-attachments/assets/080114c9-4d57-44e3-b8b6-68d4ddbc6e5c" />|
+| Tiktok     |  |<img width="84" height="18" alt="tiktok-seav" src="https://github.com/user-attachments/assets/49cfaf81-d78f-4de6-87bd-3341de3dd429" />|
 | Partner    |  |<img width="64" height="18" alt="partner-seav" src="https://github.com/user-attachments/assets/55c64256-fcd4-4c0b-b34f-fca76c01d4c1" />|
 | NPC        |  |<img width="84" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/5a38dd0c-7eee-46e6-acfe-4b10b56722e1" />|
 |TEST RANK   | ||
