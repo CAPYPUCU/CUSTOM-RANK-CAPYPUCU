@@ -44,4 +44,11 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | NPC        |  |<img width="84" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/5a38dd0c-7eee-46e6-acfe-4b10b56722e1" />|
 |TEST RANK   | ||
 
+# INSTALLATION
+Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
+
+# JAVA EDITION SERVER
+resource-pack=https://download.mc-packs.net/pack/94d04e425d85faa3cc9f01de28242c2b5544a319.zip
+resource-pack-sha1=94d04e425d85faa3cc9f01de28242c2b5544a319
+
 
