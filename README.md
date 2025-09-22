@@ -48,7 +48,6 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
 
 # JAVA EDITION SERVER
-resource-pack=https://download.mc-packs.net/pack/94d04e425d85faa3cc9f01de28242c2b5544a319.zip
-resource-pack-sha1=94d04e425d85faa3cc9f01de28242c2b5544a319
+
 
 
