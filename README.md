@@ -49,5 +49,8 @@ Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
 
 # JAVA EDITION SERVER
 
+# BUY CAPYPUCURANKS PREMIUM
+• Discord: https://discord.com/users/1316296719289548810
+
 
 
