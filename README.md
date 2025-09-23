@@ -34,13 +34,13 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 | Hero       |  |<img width="84" height="18" alt="pro-seav" src="https://github.com/user-attachments/assets/4ebeb0fb-0dac-45ef-821f-082f2f96397d" />|
 | Builder    |  |<img width="84" height="18" alt="builder-seav" src="https://github.com/user-attachments/assets/98a351c5-2de5-4ebb-a032-1698034d3a0d" />|
 | Dev        |  |<img width="84" height="18" alt="dev-seav" src="https://github.com/user-attachments/assets/4557837e-5a98-4de1-9691-a7194e6a4257" />|
-| Designer   |  |<img width="84" height="18" alt="thobaymau-seav" src="https://github.com/user-attachments/assets/7e14b099-c50c-4e15-903f-f2ba63b4dbfc" />|
+| Thỏ Bảy Màu|  |<img width="84" height="18" alt="thobaymau-seav" src="https://github.com/user-attachments/assets/7e14b099-c50c-4e15-903f-f2ba63b4dbfc" />|
 | God        |  |<img width="84" height="18" alt="god-seav" src="https://github.com/user-attachments/assets/f40a5d27-cbd8-4862-9114-c33521d61fc8" />|
 | Elite      |  |<img width="84" height="18" alt="elite-seav" src="https://github.com/user-attachments/assets/a1edda37-aef6-4004-94f5-e2c70fb7e026" />|
 | Elite+     |  |<img width="84" height="18" alt="eliteplus-seav" src="https://github.com/user-attachments/assets/1b348e6b-1e35-45b1-80e4-c78462b52c24" />|
 | YouTube    |  |<img width="84" height="18" alt="youtube-seav" src="https://github.com/user-attachments/assets/ab938574-695c-4ecf-abcb-9803e6b56c7b" />|
 | Tiktok     |  |<img width="84" height="18" alt="tiktok-seav" src="https://github.com/user-attachments/assets/49cfaf81-d78f-4de6-87bd-3341de3dd429" />|
-| Partner    |  |<img width="84" height="18" alt="discord-seav" src="https://github.com/user-attachments/assets/83e25718-ecab-4459-a58d-20fd5aa9d505" />|
+| Discord    |  |<img width="84" height="18" alt="discord-seav" src="https://github.com/user-attachments/assets/83e25718-ecab-4459-a58d-20fd5aa9d505" />|
 | NPC        |  |<img width="84" height="18" alt="npc-seav" src="https://github.com/user-attachments/assets/5a38dd0c-7eee-46e6-acfe-4b10b56722e1" />|
 |TEST RANK   | ||
 
